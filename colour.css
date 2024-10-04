@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+    margin-top:300px;
+}
+.color{
+    cursor:pointer;
+    padding:10px 20px;
+    margin:30px;
+}
+button{
+    height:50px;
+    width:100px;
+}
